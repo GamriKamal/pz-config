@@ -6,6 +6,7 @@ SandboxVars = {
     -- 3 = High
     -- 4 = Normal
     -- 5 = Low
+    MinutesPerPage = 0.01,
     Zombies = 3,
     -- Default=Urban Focused
     -- 1 = Urban Focused
